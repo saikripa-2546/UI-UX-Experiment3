@@ -16,14 +16,8 @@ Disney+ Hotstar: A dominant player in specific regions, known for live sports an
 2. Perform Heuristic Evaluation
 The evaluation is based on Nielsen's 10 Usability Heuristics.
 
-3. Analyze and Document Findings (Short & Simple)
-We evaluated the three apps based on common usability rules. Here’s a quick summary of how they compare:
-
-Usability Aspect	Netflix 🟢	Amazon Prime Video 🟡	Disney+ Hotstar 🔴
-Ease of Use	Excellent. Very simple and intuitive.	Okay. Can feel cluttered with ads and promotions.	Confusing. Back button is inconsistent, and the menu is often laggy.
-Interface Cleanliness	Clean & Minimal. Focus is entirely on your shows and movies.	Busy. Homepage is filled with banners and other offers.	Cluttered. Packed with tiles, ads, and scores, creating visual noise.
-User Control	Great. Easy "Skip Intro" and exit.	Good. Standard controls, but some UI is inconsistent.	Poor. Easy to accidentally click ads; auto-play can be intrusive.
-Error Handling	Clear. Tells you what went wrong in simple language.	Mixed. Sometimes shows confusing error codes.	Unhelpful. Often shows a vague "Something went wrong" message.
+3. Analyze and Document Findings
+The analysis reveals a clear hierarchy in user experience. Firstly, on usability and design, Netflix sets the standard with its minimalist and intuitive interface that puts content first, while Prime Video and especially Disney+ Hotstar suffer from cluttered layouts filled with promotions, creating a distracting and visually noisy experience. Secondly, regarding user control and navigation, Netflix offers seamless control with features like 'Skip Intro', whereas Disney+ Hotstar is particularly weak, with an inconsistent back button and intrusive auto-play that often leads to accidental clicks. Finally, in error handling and feedback, Netflix provides clear, actionable messages, Prime Video is inconsistent with occasional confusing error codes, and Disney+ Hotstar often fails with vague, unhelpful prompts like "Something went wrong," leaving users frustrated.
 
 4. Propose and Apply Improvements
 Based on the analysis, here are targeted improvements for each app:
@@ -54,7 +48,7 @@ More granular playback controls (speed, audio sync) on all platforms.
 
 Benefit: Caters to power users without complicating the interface for the majority. Enhances user control and personalization, solidifying its lead through flexibility.
 
-Benefits of the Proposed Improved Design
+## Benefits of the Proposed Improved Design
 🌟 1. Seamless and Predictable Navigation
 Users can browse and navigate without the fear of getting lost or accidentally exiting. This builds user confidence and reduces frustration, especially for less tech-savvy audiences.
 
@@ -85,7 +79,3 @@ Result: The Heuristic Evaluation of the selected video streaming apps is created
 
 
 
-
-Prime Video is powerful but feels cluttered and less consistent.
-
-Disney+ Hotstar has great content but the app itself is often frustrating and poorly designed.
