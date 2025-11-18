@@ -73,7 +73,13 @@ Giving users more options, like disabling auto-play or creating multiple lists, 
 💼 8. Business Advantages
 A superior, less frustrating UX is a key competitive differentiator. It reduces churn, increases watch time (as users spend less time fighting the UI), and enhances brand perception as a premium, user-focused service.
 
-Output: (Note: As an AI, I cannot generate images, but the output would be a series of annotated wireframes or mockups visualizing the proposed improvements for each app.)
+Output: 
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/3a520dad-093f-443f-8bd4-53f5fe880601" />
+<img width="305" height="165" alt="image" src="https://github.com/user-attachments/assets/cc42f933-3bed-4828-8c2a-2dd0efb6494d" />
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/f0820283-d993-4196-9366-9810f87b86ad" />
+
+
 
 Result: The Heuristic Evaluation of the selected video streaming apps is created and verified. The analysis provides a clear, actionable roadmap for enhancing usability and user satisfaction.
 
